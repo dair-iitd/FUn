@@ -1,5 +1,7 @@
 # FUn : Model-agnostic Logical-form Refinement for KBQA with Unanswerability
 
+This repository contains the open-sourced official implementation of the [paper](https://drive.google.com/file/d/1kzeqGTG5Cjshon8eo2OZSosoEO52Y0IS/view?usp=drive_link) submitted at TKDE for review.
+
 [[video](https://drive.google.com/file/d/1Zbu6Ec14XHoZJxMjVFI982VyPNeqMLUP/view?usp=sharing)] | 
 [[slides](https://docs.google.com/presentation/d/1vmsktNXRjnVcq5Xm4jM7L4JfhNj7EBQY/edit?usp=drive_link&ouid=115447969639729561298&rtpof=true&sd=true)] | 
 [[poster](https://drive.google.com/file/d/1CY_YRxk0R38Cxmxi9Q8rgQRcijIgKeUL/view?usp=sharing)]
