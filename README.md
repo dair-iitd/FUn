@@ -7,7 +7,12 @@ This repository contains the open-sourced official implementation of the [paper]
 [[poster](https://drive.google.com/file/d/1CY_YRxk0R38Cxmxi9Q8rgQRcijIgKeUL/view?usp=sharing)]
 
 ## Architecture
-![alt text](https://github.com/dair-iitd/FUn-FuSIC/blob/main/FUn-FuSIC%20Architeture.jpg)
+### **Overall Flow**
+![alt text](https://github.com/dair-iitd/FUn/blob/main/imgs/Overall.png)
+### **Iterative Verifier and Repair Flow**
+![alt text](https://github.com/dair-iitd/FUn/blob/main/imgs/fun_short.png)
+### **self-consistency for Unanswerability Flow**
+![alt text](https://github.com/dair-iitd/FUn/blob/main/imgs/fun_scun_short.png)
 
 ## To run the code 
 ```
